@@ -56,8 +56,7 @@ Este projeto demonstra o ciclo completo de uma solução de Data Science aplicad
 
 ## 🎥 Demonstração
 
-> Coloque aqui um GIF ou link para vídeo mostrando o app funcionando.
-
+> git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 ---
 
 ## 💡 Aprendizados & Diferenciais
