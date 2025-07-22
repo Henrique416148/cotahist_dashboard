@@ -78,8 +78,8 @@ Este projeto demonstra o ciclo completo de uma solução de Data Science aplicad
 ## 👤 Autor
 
 - **Seu nome**
-- [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)
-- [Portfólio](https://github.com/SEU_USUARIO)
+- [LinkedIn](https://www.linkedin.com/in/luis-henrique-dos-ribeiro-991aa8250/)
+- [Portfólio](https://github.com/Henrique416148)
 
 ---
 
