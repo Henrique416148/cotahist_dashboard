@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35.0-ff4b4b.svg)](https://streamlit.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue.svg)](https://www.postgresql.org/)
-[![Testes automatizados](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/python-app.yml/badge.svg)](LINK_DA_SUA_ACTION)
+
 
 ---
 
